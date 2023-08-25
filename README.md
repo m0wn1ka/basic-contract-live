@@ -11,4 +11,4 @@ ran build command
 site is live
 [click here](https://radha-mounika-p5zs.onrender.com/_)
 ## related
-the code which would on local is [here](https://github.com/m0wn1ka/web3js-smartcontract-basic_
+the code which would work  on local is [here](https://github.com/m0wn1ka/web3js-smartcontract-basic)
